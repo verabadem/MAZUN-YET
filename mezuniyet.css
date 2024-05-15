@@ -1,0 +1,58 @@
+body {
+                  font-family: Arial, sans-serif;
+                  margin: 20px;
+                  }
+                  
+                  h1 {
+                  color: #ffffff;
+                  text-align: center;
+                  }
+                  
+                  p {
+                  font-size: 14px;
+                  line-height: 1.5;
+                  }
+                  
+                  ul {
+                  list-style-type: disc;
+                  margin-left: 20px;
+                  }
+                  
+                  img {
+                  width: 200px;
+                  height: 150px;
+                  margin: 10px;
+                  }
+                  
+                  a {
+                  color: rgb(0, 0, 0);
+                  text-decoration: underline;
+                  }
+                  
+                  .button {
+                                    background-color: #4CAF50; /* Yeşil arka plan rengi */
+                                    border: none; /* Sınır yok */
+                                    color: rgb(0, 0, 0); /* Beyaz metin rengi */
+                                    padding: 15px 32px; /* Butonun iç dolgusu */
+                                    text-align: center; /* Metni ortala */
+                                    text-decoration: none; /* Metin süslemesi yok */
+                                    display: inline-block; /* Butonu satır içi blok olarak görüntüle */
+                                    font-size: 16px; /* Metin boyutunu ayarla */
+                                    margin: 4px 2px; /* Butonun kenar boşlukları */
+                                    cursor: pointer; /* Fare imlecini el olarak göster */
+                                    border-radius: 5px; /* Köşeleri hafifçe yuvarlat */
+                                    box-shadow: 0 2px 5px rgb(0, 0, 0); /* Hafif bir gölge ekle */
+                                    transition: background-color 0.3s ease; /* Butonun üzerine fare geldiğinde arka plan rengini değiştir */
+                                  }
+                                  
+                                  .button:hover {
+                                    background-color: #3e8e41; /* Daha koyu yeşil arka plan rengi */
+
+
+
+                                  }
+
+
+
+
+                                  
